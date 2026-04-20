@@ -1,6 +1,6 @@
 ## Hi, I'm Matt!
 
-Software Developer and Solutions Engineer in Champaign, IL. Open source enthusiaast. Outside of work, I mess around with ham radio, solve Rubik's cubes, play instruments, and write music.
+Software Developer and Solutions Engineer in Champaign, IL. Open source enthusiast. Outside of work, I mess around with ham radio, solve Rubik's cubes, play instruments, and write music.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
