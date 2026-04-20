@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Matt!
 
-<!--
-**mpurnell1/mpurnell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer and Solutions Engineer in Champaign, IL. Open source enthusiaast. Outside of work, I mess around with ham radio, solve Rubik's cubes, play instruments, and write music.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 [LinkedIn](https://linkedin.com/in/matthew-c-purnell)
+- 📧 [Email](mailto:matt@purnell.ai)
+<!-- Not deployed yet
+- 🌐 [Website](https://purnell.ai)
+- 📄 [Resume](https://purnell.ai/resume.pdf)
 -->
