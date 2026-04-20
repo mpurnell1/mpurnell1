@@ -9,8 +9,6 @@ Software Developer and Solutions Engineer in Champaign, IL. Open source enthusia
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - 💼 [LinkedIn](https://linkedin.com/in/matthew-c-purnell)
-- 📧 [Email](mailto:matt@purnell.ai)
-<!-- Not deployed yet
 - 🌐 [Website](https://purnell.ai)
 - 📄 [Resume](https://purnell.ai/resume.pdf)
--->
+- 📧 [Email](mailto:matt@purnell.ai)
