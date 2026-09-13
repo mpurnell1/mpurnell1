@@ -10,5 +10,5 @@ Software Developer and Solutions Engineer in Champaign, IL. Open source enthusia
 
 - 💼 [LinkedIn](https://linkedin.com/in/matthew-c-purnell)
 - 🌐 [Website](https://purnell.ai)
-- 📄 [Resume](https://purnell.ai/resume.pdf)
+- 📄 [Resume](https://purnell.ai/resume?ref=gh-readme)
 - 📧 [Email](mailto:matt@purnell.ai)
